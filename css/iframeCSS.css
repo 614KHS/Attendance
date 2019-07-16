@@ -1,0 +1,17 @@
+
+    #namae,
+    #attend{
+        font-size:10px;
+        display:inline-block;
+        background-color: #ccc;
+    }
+    #namae{
+        margin-left:0.2rem;
+        width:185px;
+    }
+    #attend{
+        width:20px;
+    }
+    a{
+        color: #fcc;
+    }

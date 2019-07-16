@@ -1,0 +1,43 @@
+
+	*{
+	    font-family: '游ゴシック','Yu Gothic';
+	}
+	body{
+	    background-image: url("https://beiz.jp/images_M/wood-texture/wood-texture_00007.jpg");
+	    background-size:cover;
+	}
+	h1{
+	    font-size:3rem;
+	    justify-content: center;
+	    margin: 0 auto;
+	    text-align: center;
+	}
+    p{
+        justify-content: center;
+	    margin: 0 auto;
+	    text-align: center;
+    }
+    table {
+        margin: 0 auto;
+        margin-top:1rem;
+        table-layout: fixed;
+        word-wrap: break-word;
+	    border-collapse: collapse;
+	    justify-content: center;
+	    text-align: center;
+    }
+    td {
+        width: 100%;
+        border: solid 2px;
+        padding: 0.2rem;
+    }
+    iframe{
+        justify-content: center;
+	    margin: 0 auto;
+        width: 15rem;
+        height: 10rem;
+        }
+        header{
+        width: 20rem;
+        position: fixed;
+    }
